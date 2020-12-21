@@ -3008,6 +3008,20 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 2.6566966649020647,
     "streak": 3
+  },
+  {
+    "run_id": 1608542563043,
+    "name": "run from gpx",
+    "distance": 1976.9911459960515,
+    "moving_time": "0:12:10.231000",
+    "type": "Run",
+    "start_date": "2020-12-21 09:22:43",
+    "start_date_local": "2020-12-21 17:22:43",
+    "location_country": "\u94f6\u6cb3\u9547, \u840d\u4e61\u5e02, \u6c5f\u897f\u7701, \u4e2d\u56fd",
+    "summary_polyline": "arghDigmwT`JyK~GcCtEHgCgLEaFmJwHwBzBsClGCrQiBjE`@zBa@xCTN",
+    "average_heartrate": null,
+    "average_speed": 2.7073503398185665,
+    "streak": 1
   }
 ];
 
