@@ -106,7 +106,7 @@ jobs:
         with:
           github-token: ${{ secrets.RUNNING_TOKEN }}
           commit-message: "Add new runs"
-          files: activities src/static/ scripts/data.db assets/ GPX_OUT/
+          files: activities src/static/ scripts/ assets/ GPX_OUT/
           rebase: 'true'
           name: ${{ env.GITHUB_NAME }}
           email: ${{ env.GITHUB_EMAIL }}
