@@ -1,0 +1,19 @@
+{
+    "id": "4c6bf23e-ebd0-49ad-a862-42e0edb40c84",
+    "type": "run",
+    "app_id": "com.nike.sport.running.droid",
+    "start_epoch_ms": 1612516197061,
+    "end_epoch_ms": 1612516197061,
+    "last_modified": 1612517473846,
+    "active_duration_ms": 0,
+    "session": false,
+    "delete_indicator": false,
+    "summaries": [],
+    "sources": [],
+    "tags": {},
+    "change_tokens": [
+        "4cb2e496447b45b3850ad1551e498dd4288ab066fcc66a0ba0293efccebba048:1612517473846"
+    ],
+    "metric_types": [],
+    "moments": []
+}
