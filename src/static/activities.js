@@ -3512,6 +3512,20 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 2.824242307115576,
     "streak": 6
+  },
+  {
+    "run_id": 1619428317127,
+    "name": "run from gpx",
+    "distance": 3196.725133865799,
+    "moving_time": "0:18:47.639000",
+    "type": "Run",
+    "start_date": "2021-04-26 09:11:57",
+    "start_date_local": "2021-04-26 17:11:57",
+    "location_country": "\u94f6\u6cb3\u9547, \u840d\u4e61\u5e02, \u6c5f\u897f\u7701, \u4e2d\u56fd",
+    "summary_polyline": "csghD_hmwTZcBoAAgFtBeEF{Bh@oG|CmBtDsBrB}BcB}CzBuC|@yBeAg@}EwCoDgAeDc@uEqAoDQ_F`EUhFT|FmB~GxB`FXdAh@pDjEvC|JfEMdFsBx@TO~A",
+    "average_heartrate": null,
+    "average_speed": 2.8348834457355583,
+    "streak": 7
   }
 ];
 
