@@ -1,0 +1,36 @@
+{
+    "id": "f0be0600-864d-4aa6-98bb-1984c1d6e801",
+    "type": "run",
+    "app_id": "com.nike.sport.running.droid",
+    "start_epoch_ms": 1623925634572,
+    "end_epoch_ms": 1623925634572,
+    "last_modified": 1623925858003,
+    "active_duration_ms": 0,
+    "session": false,
+    "delete_indicator": false,
+    "summaries": [],
+    "sources": [
+        "com.nike.running.android.fullpower"
+    ],
+    "tags": {},
+    "change_tokens": [
+        "9f858a77d39ae6679abb52cfae597e1259baa2c3a20d33e5688e7cf1f96cf1f4:1623925858003"
+    ],
+    "metric_types": [],
+    "moments": [
+        {
+            "key": "halt",
+            "value": "pause",
+            "timestamp": 1623925657000,
+            "app_id": "com.nike.sport.running.droid",
+            "source": "com.nike.running.android.fullpower"
+        },
+        {
+            "key": "halt",
+            "value": "resume",
+            "timestamp": 1623925668000,
+            "app_id": "com.nike.sport.running.droid",
+            "source": "com.nike.running.android.fullpower"
+        }
+    ]
+}
